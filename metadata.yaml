@@ -1,0 +1,24 @@
+_repo: Landholding-in-England_3799
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fisher, Joseph, F.R.H.S.
+    alias: Fisher, Joseph, the younger, of Youghal
+    gutenberg_agent_id: '1311'
+    url: http://www.gutenberg.org/2009/agents/1311
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3799'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Land tenure -- Great Britain'
+- !lcc 'HD'
+- GITenberg
+title: Landholding in England
+url: http://www.gutenberg.org/ebooks/3799

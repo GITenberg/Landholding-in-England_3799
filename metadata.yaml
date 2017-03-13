@@ -1,5 +1,8 @@
 _repo: Landholding-in-England_3799
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Fisher, Joseph, F.R.H.S.
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '1311'
     url: http://www.gutenberg.org/2009/agents/1311
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3799#Landholding-in-England
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2003-02-01'
 gutenberg_type: Text
